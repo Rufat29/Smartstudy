@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="253" height="76" viewBox="0 0 253 76">
+  <g id="Group_43" data-name="Group 43" transform="translate(-1062 -937)">
+    <g id="Rectangle_72" data-name="Rectangle 72" transform="translate(1062 937)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="253" height="76" rx="14" stroke="none"/>
+      <rect x="0.5" y="0.5" width="252" height="75" rx="13.5" fill="none"/>
+    </g>
+    <text id="Göndər" transform="translate(1125 987)" fill="#0f6f99" font-size="34" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Göndər</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="154" height="136" viewBox="0 0 154 136">
+  <defs>
+    <filter id="Rectangle_47" x="0" y="0" width="154" height="136" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_17" data-name="Group 17" transform="translate(-2942.684 -6571.712)">
+    <g transform="matrix(1, 0, 0, 1, 2942.68, 6571.71)" filter="url(#Rectangle_47)">
+      <rect id="Rectangle_47-2" data-name="Rectangle 47" width="79" height="61" rx="14" transform="translate(37.5 22.5)" fill="#fff"/>
+    </g>
+    <path id="FontAwsome_arrow-right_" data-name="FontAwsome (arrow-right)" d="M12.141,39.514,13.556,38.1a1.523,1.523,0,0,1,2.161,0l12.39,12.384a1.523,1.523,0,0,1,0,2.161l-12.39,12.39a1.523,1.523,0,0,1-2.161,0l-1.415-1.415a1.531,1.531,0,0,1,.025-2.186l7.68-7.317H1.53A1.526,1.526,0,0,1,0,52.586V50.547a1.526,1.526,0,0,1,1.53-1.53H19.847L12.167,41.7A1.52,1.52,0,0,1,12.141,39.514Z" transform="translate(3005.276 6573.491)" fill="#0f6f99"/>
+  </g>
+</svg>
